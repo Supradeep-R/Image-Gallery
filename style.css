@@ -81,4 +81,8 @@ figcaption{
         height: 20vh;
         align-items: center;
     }
+    .image-position img{
+        position: absolute;
+        bottom: -25%;
+    }
 }

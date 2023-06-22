@@ -78,7 +78,7 @@ figcaption{
 @media only screen and (max-width: 768px){
     .image{
         width: 90%;
-        height: 40vh;
+        height: 20vh;
         align-items: center;
     }
 }
